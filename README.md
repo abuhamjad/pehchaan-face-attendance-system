@@ -186,7 +186,6 @@ Each file contains:
 ## Author
 
 **Abu Huraira**
-Python Developer | AI Enthusiast | Computer Science Student
 
 ---
 
